@@ -1,3 +1,7 @@
+/* Author: Anton Khelou 2011 
+   MUMT 301
+*/
+
 package org.myorg;
 
 import java.io.IOException;

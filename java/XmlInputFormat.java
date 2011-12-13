@@ -1,3 +1,5 @@
+/* From Apache Mahout */
+
 package org.myorg;
 
 import java.io.IOException;
